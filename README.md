@@ -23,7 +23,7 @@ You are welcome to still raise bugs in this repo.
 
 ## Usage
 
-See [action.yml](action.yml)
+See [action.yml](action.yml).
 
 ```yaml
 name: Greetings
@@ -47,4 +47,4 @@ jobs:
 
 ## License
 
-The scripts and documentation in this project are released under the [MIT License](LICENSE)
+The scripts and documentation in this project are released under the [MIT License](LICENSE).
